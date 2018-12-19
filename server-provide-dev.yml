@@ -1,5 +1,5 @@
 spring:
   config:
-    test: zzzzzzzzzzzzzzzzzzzz
+    test: yyyyyyyyyyyyyyyyyyyyyyyyyyyxxxxxxxxxxxxx
 server:
   port: 8006
